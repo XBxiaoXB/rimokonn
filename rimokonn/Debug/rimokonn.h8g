@@ -1,0 +1,4 @@
+-cpu=300HN
+-output="D:\work_ku\rimokonn\rimokonn\Debug\rimokonn.lib"
+-head=runtime,new,stdio,stdlib
+-lang=c
